@@ -1,0 +1,15 @@
+.Tilt {
+  height: 100px;
+  width: 100px;
+}
+
+.Tilt-inner {
+  height: 100px;
+  width: 100px;
+}
+
+.logo-img{
+    width: 70px;
+    height: auto;
+    margin-top: 10px;
+}
